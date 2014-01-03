@@ -7,4 +7,8 @@
    "repository": "lge-kernel-iproj",
    "target_path": "kernel/lge/iproj"
  }
+{
+   "repository": "android_vendor_lge_lu6200",
+   "target_path": "vendor/lge/lu6200"
+}
 ]
